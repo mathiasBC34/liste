@@ -1,0 +1,10 @@
+ul>li+li{
+    background-color: blue;
+}
+ul>li>li>li{
+    background-color: blue;
+}
+
+ul :nth-child(2){
+    background-color: blue;
+}
